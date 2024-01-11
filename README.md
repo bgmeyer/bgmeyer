@@ -1,11 +1,18 @@
-### Hi there 👋
+### Hello 👋
+I am a computer science student.
+🌱 I’m currently learning advanced C# programming. I have worked with the languages: C#, C++, Python, and SQL.
+👯 I’m collaborating on projects to further my programming knowledge and expand my professional abilities.
+⚡ Fun fact: I love animals and am learning how to build a regenerative farm
+---
+> Go confidently in the direction of your dreams. Live the life you have imagined.
 
+— Henry David Thoreau
 <!--
 **bgmeyer/bgmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
