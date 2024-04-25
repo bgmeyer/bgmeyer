@@ -1,8 +1,8 @@
 ### Hello 👋
-I am a computer science student.
-🌱 I’m currently learning advanced C# programming. I have worked with the languages: C#, C++, Python, and SQL.
+I am a computer science student with a Computer Technology, Programming/Database, AAS.🔭
+🌱 I’m currently learning to program mobile apps. I have worked with the languages: Java, C#, C++, Python, and SQL.
 👯 I’m collaborating on projects to further my programming knowledge and expand my professional abilities.
-⚡ Fun fact: I love animals and am learning how to build a regenerative farm
+⚡ Fun fact: I love animals and I am passionately learning how to build a regenerative farm.
 ---
 > Go confidently in the direction of your dreams. Live the life you have imagined.
 
